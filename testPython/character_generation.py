@@ -31,9 +31,9 @@ def random_char_gen():
     return result
 
 
-#name = input("please enter your name: ")
-#print("your name is ", str(name))
-#print(rand_char_gen())
+name = input("please enter your name: ")
+print("your name is ", str(name))
+print(random_char_gen())
 #for x in range (0,10,1):
 #    print(random_char_gen())
     
@@ -50,8 +50,8 @@ for x in range (0, 100, 1):
        female_count=female_count+1
      
 
-print ("A male character was created "+ str(male_count))
-print ("A female character was created "+str(female_count))
+#print ("A male character was created "+ str(male_count))
+#print ("A female character was created "+str(female_count))
 
 
    

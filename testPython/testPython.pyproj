@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9bb92653-96d4-4886-a5a2-7a8e6ed2ca34</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>testPython.py</StartupFile>
+    <StartupFile>character_generation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
